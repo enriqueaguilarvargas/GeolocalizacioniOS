@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoiOSGeolocalizacion", "DemoiOSGeolocalizacion\DemoiOSGeolocalizacion.csproj", "{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{364C1621-2F8C-48C4-8E73-C1BC5BE3906B}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
